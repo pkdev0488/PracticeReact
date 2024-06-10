@@ -4,7 +4,7 @@
 //   )
 // }
 // export default App;
-import Movies from "./Movies";
+import Movies from "./components/Movies";
 import { Component } from "react";
 class App extends Component{
   render(){

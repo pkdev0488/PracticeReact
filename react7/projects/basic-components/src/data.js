@@ -1,23 +1,33 @@
 const moviesData = [
     {
-        "image": "https://m.timesofindia.com/thumb.cms?msid=108871361&width=200&height=281",
-        "title": "Tillu2"
+        image: "../../src/assets/tillu2.jpeg",
+        title: "Tillu2",
+        rating: 5.0
     }, 
     {
-        "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202306/Devara_1687223267.jpg",
-        "title": "Devara"
+        image: "../../src/assets/devara.webp",
+        title: "Devara",
+        rating: 9.2
     }, 
     {
-        "image": "https://static.toiimg.com/thumb/msid-100952858,width-400,resizemode-4/100952858.jpg",
-        "title": "Eagle"
+        image: "../../src/assets/devara.webp",
+        title: " ",
+        rating: 4.0
     }, 
     {
-        "image": "https://www.businessoftollywood.com/wp-content/uploads/2023/06/gunturu-kharam.jpg",
-        "title": "Guntur Karam"
+        image: "../../src/assets/eagle.webp",
+        title: "Eagle",
+        rating: 3.0
     }, 
     {
-        "image": "https://moviegalleri.net/wp-content/gallery/2024newyeartelugu/Animal-Movie-New-Year-Wishes-Poster.jpg",
-        "title": "Animal"
+        image: "../../src/assets/gunturu-karam.jpeg",
+        title: "Guntur Karam",
+        rating: 6.0
+    }, 
+    {
+        image: "../../src/assets/animal.jpeg",
+        title: "Animal",
+        rating: 1.0
     }
 ]
 export default moviesData;
